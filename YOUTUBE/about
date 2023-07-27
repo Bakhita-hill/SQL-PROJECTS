@@ -1,0 +1,6 @@
+YouTube contains tons of data, the dataset i used contined data of about 2,000 YouTube videos and comments, such as the number of views and likes. 
+i used this to answer some basic questions: such as 
+  1.What are the most commented-upon videos? the most liked? or most viewed, 
+  2. What are the most-liked comments? 
+  3. What is the ratio of views/likes per video? 
+  4. What is the average sentiment score in each keyword category?
