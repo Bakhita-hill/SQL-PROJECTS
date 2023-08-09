@@ -1,0 +1,9 @@
+In the context of this Zomato project, I successfully utilized SQL functions including CASE WHEN, MEDIAN, AVERAGE, and COUNT to derive the following insights:
+  1.What are the top 10 most common cuisines among listed restaurants?
+  2.How many restaurants are there in each city?
+  3.What is the distribution of restaurant ratings (average, minimum, maximum, median)?
+  4.Is there a relationship between the number of votes and the overall aggregate rating of a restaurant?
+  5.Are there any cities with a higher concentration of specific cuisines?
+  6.How many restaurants offer a specific cuisine type?
+  7.What is the average cost for two people for each cuisine?
+and many more
