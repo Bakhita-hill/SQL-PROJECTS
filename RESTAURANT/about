@@ -1,0 +1,8 @@
+In this project, I worked with a bunch of data about a restaurant. This data covered things like details about customers, what they ordered, the type of restaurant, and more.
+With this data, I did a bunch of different things to learn more.
+First, I looked at who the customers were and what they liked to eat. Then, I checked how well the restaurant was doing and what types of food were popular. 
+I also figured out how often customers came back and when they liked to eat the most. Additionally, I looked at how much things cost and how the expenses added up.
+To get all this information, I used special tools in SQL. These tools helped me work with dates and times, like figuring out which days were busy or when people ordered the most. 
+I also used tools to add up numbers, find averages, count things, and round off numbers.
+Overall, by putting together all these analyses and using SQL's helpful tools, I got a really good picture of what was going on with the restaurant – who its customers were, what they liked,
+and how the restaurant was doing financially. This information can be really useful for making smart decisions about running the restaurant.
