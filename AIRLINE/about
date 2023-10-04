@@ -1,0 +1,11 @@
+In the  airline dataset analysis, my primary objective was to extract fundamental insights and provide comprehensive information. 
+This included:
+1. Passenger Count:Determining the total number of passengers present in the dataset.
+2. Gender Distribution: Analyzing the gender distribution among passengers to understand the demographic composition.
+3. Airport Count:Identifying the total count of distinct airports within the dataset.
+4. Airport Distribution by Country:Categorizing airports based on their respective countries and presenting a distribution summary.
+5.Airport with Most Delayed Flights: Identifying the airport with the highest number of delayed flights, shedding light on potential operational challenges.
+6. Pilot Count and Distribution: Calculating the total count of pilots and distributing them based on their assigned airports, offering insights into staffing patterns.
+7. Airport with Most Passengers:Identifying the airport that served the highest number of passengers, signifying its significance within the dataset.
+
+To address these objectives effectively, I utilized SQL functions such as 'COUNT' for numerical summaries, 'DISTINCT' for obtaining unique values, 'TOP' to identify the most significant instances, and 'WHERE' to filter and segment data, ensuring a comprehensive and structured analysis.
