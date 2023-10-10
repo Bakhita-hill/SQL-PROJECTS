@@ -1,0 +1,30 @@
+
+In this project, i explored a video game sales dataset available on Kaggle using SQL queries to extract valuable insights.
+The dataset contained information about various video games, including their titles, platforms, genres, sales figures in different regions (North America, Europe, Japan, etc.),
+release years, and more.
+My  goal was to gain a comprehensive understanding of the video game market by addressing a series of key questions. 
+To achieve this, i leveraged SQL techniques to query the dataset effectively. Below are the questions  and the methods i used:
+1.Total Sales Analysis:
+To calculate the total global sales revenue for all games in the dataset, i  used the SQL `SUM` function to aggregate sales data across all records.
+
+2. Top Selling Games:
+I identified the top 10 best-selling games based on global sales. This involves sorting the data using the `ORDER BY` clause and selecting the top records using `TOP`.
+
+3. Platform Popularity:
+To determine the gaming platform with the most games released, I  used the `GROUP BY` clause to group data by platform and then count the number of records in each group.
+
+4. Genre Analysis:
+i found the top 5 most popular game genres in terms of the number of games released. This required grouping data by genre and counting the records in each group.
+
+5. Yearly Sales Trend:
+To analyze how global game sales have evolved over the years, i grouped data by year and use the `SUM` function to calculate yearly sales.
+
+6. Region-Based Sales:
+To determine the top 5 games in North America, Europe, and Japan in terms of sales, i  sorted the data based on sales in each region and used 'TOP` to select the top records.
+
+7. Platform-Genre Combination:
+To identify the platform-genre combination with the highest average sales, i grouped data by both platform and genre, then calculated the average sales for each combination.
+
+8.Longest Title:
+i found the game with the longest title character-wise by sorting the data based on the length of game titles by using the 'LEN'function and selecting the top record.
+
