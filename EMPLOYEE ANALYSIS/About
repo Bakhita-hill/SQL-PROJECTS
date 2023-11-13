@@ -1,0 +1,7 @@
+In the course of this project, I engaged with four distinct datasets comprising employee data, employee survey data, training data, and recruitment data.
+These datasets encapsulated a diverse array of information, necessitating a comprehensive analytical approach.
+My primary objectives centered around conducting both univariate and bivariate analyses to discern pertinent insights. To fulfill this mandate,
+I leveraged SQL functions, strategically employing tools such as  various date functions ('year,' 'month,' 'datediff,' 'getdate'), statistical measures such as
+average ,count, max ,sum,  round,  executed judicious joins and implemented conditional logic through 'case when' statements.
+The analysis  offered a deep understanding of employee dynamics,survey responses, training outcomes, and recruitment trends.which provided a solid basis for 
+informed decision-making and strategic planning.
